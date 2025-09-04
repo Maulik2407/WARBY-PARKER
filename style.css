@@ -1,0 +1,10 @@
+.aa {border: 4px solid red;}
+.ab {border: 4px solid rgb(15, 1, 1);}
+.ac {border: 4px solid rgb(59, 211, 35);}
+.ae {border: 4px solid rgb(141, 9, 112);}
+
+
+.ad {border: 1px solid rgba(0, 0, 0, 0.37)}
+.ad:hover {
+    border: 2px solid black;
+}
